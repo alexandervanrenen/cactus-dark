@@ -2,20 +2,20 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: https://github.com/alexandervanrenen
 
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/alexandervanrenen
 
 customize:
     gravatar:
-        email: 
+        email:
     logo:
         enabled: true
         width: 50
         height: 50
         url: /images/logo.png
         gravatar: false
-    favicon: 
+    favicon:
       # eg. generate with http://realfavicongenerator.net/
       desktop:
         url: /images/favicon.ico
@@ -27,15 +27,15 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: https://github.com/alexandervanrenen
+        twitter: https://twitter.com/alexvanrenen
+        facebook: https://www.facebook.com/alexander.vanrenen
+        linkedin: https://www.linkedin.com/in/alexander-van-renen-5133a280
     post_count: 5
     highlight: rainbow
 
 # RSS
-rss: false
+rss:
 
 # Plugins
 plugins:
